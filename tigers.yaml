@@ -1,13 +1,10 @@
 team: Tigers
 
-<<<<<<< HEAD
-manager: Brenda
-=======
 manager: Ruth
->>>>>>> to-merge
 
 members:
 - Linda
 - William
 - David
 - George
+- RRR
